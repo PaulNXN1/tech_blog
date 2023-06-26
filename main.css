@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: center;
+    color: black;
+    background-color: bisque;
+}
+
+* {
+    background-color: lightgrey
+}
+
+#link_sections {
+    display: flex;
+    justify-content: space-evenly;
+}
