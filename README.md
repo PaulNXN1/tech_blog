@@ -1,7 +1,11 @@
 # tech_blog 💻
 
 ## Description
+For this assignment, the challenge was to create a CMS-style blog site, where users and or developers can publish their blog posts and comment on other post(s). The application has been built was no pre-written code.  
 
+The application will be deployed on Heroku. 
+
+The goal was to implement the MVC paradigm using Handlebars.js, Sequelize as the ORM, and the express-session npm package for authentication.  
 
 
 ## Code Contributors
